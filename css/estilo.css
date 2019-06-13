@@ -170,9 +170,9 @@ body {
           font-weight: 600;
        }
 
-.tentar {
-  margin-left: 5px;
-}
+       .tentar {
+        margin-left: 5px;
+      }
 
 .contexto {
   display: flex;
