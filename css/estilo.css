@@ -8,4 +8,178 @@ body {
   font-size: 14px;
   line-height: 1.27;
   color: #354052;
+  
+  
+}
+
+.centralizar {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.ella {
+  width: 141px;
+  height: 101px;
+  font-family: Source Sans Pro;
+  font-size: 70px;
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.26;
+  letter-spacing: normal;
+  text-align: left;
+  color: #6b3de4;
+  margin-right: 395px;
+}
+
+
+.texto-um{
+  font-size: 40px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  
+  color: #354052;
+  margin-right: 50px;
+}
+.empurra{
+  margin-bottom: 20px;
+ 
+}
+.cafe
+{
+  height: 356px;
+  background-color: rgba(107, 61, 228, 0.11);
+}
+
+.paragrafo-um {
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.27;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354052;
+  
+}
+
+
+  .botao-estilo{
+    width: 10;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #007ac2;
+    display: flex;
+    margin-top: 30px;
+  
+  
+  }
+
+ .botao-texto {
+  font-family: Source Sans Pro;
+  font-size: 30px;
+
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.83;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  justify-content: center
+  }
+  
+  .rodape{
+    height: 359px;
+    background-color: #f5f5f5;
+    margin-top: 60px;
+    padding-top: 60px;
+  
+  }
+
+  .titulo-rodape {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+  }
+
+  .sub-titulo-rodape {
+    font-size: 24px;
+    font-weight: 100;
+    color: #354052;
+    display: flex;
+    justify-content: center;
+    
+    }
+
+    .fab fa-facebook-f {
+      width: 11.3px;
+      height: 21.8px;
+      background-color: #354052;
+    }
+
+    .fab fa-twitter {
+      width: 28px;
+      height: 22.8px;
+      background-color: #354052;
+    }
+
+    .fab fa-instagram {
+    width: 24.7px;
+    height: 24.7px;
+    background-color: black;
+    color: #354052;
+    }
+
+    .redes {
+      font-size: 28px;
+      justify-content: center;
+      display: flex;
+     padding-top: 20px;
+
+    }
+    a {
+      width: 40px;
+      height: 60px;
+      color:#354052;
+       }
+
+       .final {
+        
+        font-family: SourceSansPro-Light;
+        font-size: 16px;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 2.6;
+        letter-spacing: normal;
+        text-align: center;
+        color: #354052;
+        margin-left: 10px;
+       }
+
+       .sub-final {
+         font-size: 16px;
+         margin-left: 280px;
+         font-family: Source Sans Pro;
+          font-weight: 600;
+       }
+
+.tentar {
+  margin-left: 5px;
+}
+
+.contexto {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
 }
